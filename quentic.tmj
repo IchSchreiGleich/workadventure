@@ -44,6 +44,34 @@
                  "width":150,
                  "x":0,
                  "y":0
+                }, 
+                {
+                 "draworder":"topdown",
+                 "id":37,
+                 "name":"Pascal",
+                 "objects":[
+                        {
+                         "height":64,
+                         "id":7,
+                         "name":"",
+                         "properties":[
+                                {
+                                 "name":"exitUrl",
+                                 "type":"string",
+                                 "value":"https:\/\/play.workadventu.re\/_\/7q4gbs5ntkk\/metarox2004.github.io\/WorkAdventure\/quentic_addon.tmj#from-addonx"
+                                }],
+                         "rotation":0,
+                         "type":"",
+                         "visible":true,
+                         "width":64,
+                         "x":1280,
+                         "y":896
+                        }],
+                 "opacity":1,
+                 "type":"objectgroup",
+                 "visible":true,
+                 "x":0,
+                 "y":0
                 }],
          "name":"Exists",
          "opacity":1,
@@ -392,8 +420,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":37,
- "nextobjectid":7,
+ "nextlayerid":38,
+ "nextobjectid":8,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
