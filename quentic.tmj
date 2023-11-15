@@ -66,6 +66,23 @@
                          "width":64,
                          "x":1280,
                          "y":896
+                        }, 
+                        {
+                         "height":82.8243089346723,
+                         "id":10,
+                         "name":"to-pascal",
+                         "properties":[
+                                {
+                                 "name":"exitUrl",
+                                 "type":"string",
+                                 "value":"https:\/\/play.workadventu.re\/_\/7q4gbs5ntkk\/metarox2004.github.io\/WorkAdventure\/quentic_addon.tmj#from-quentic"
+                                }],
+                         "rotation":0,
+                         "type":"area",
+                         "visible":true,
+                         "width":120.095247955275,
+                         "x":1666.83921731028,
+                         "y":485.557511129517
                         }],
                  "opacity":1,
                  "type":"objectgroup",
@@ -105,7 +122,6 @@
                  "id":22,
                  "name":"Floor",
                  "opacity":1,
-                 "tintcolor":"#d480cd",
                  "type":"tilelayer",
                  "visible":true,
                  "width":150,
@@ -281,12 +297,17 @@
                         {
                          "height":192,
                          "id":4,
-                         "name":"Belinda",
+                         "name":"jitsiMeetingRoom",
                          "properties":[
                                 {
                                  "name":"jitsiRoom",
                                  "type":"string",
                                  "value":"Belinda"
+                                }, 
+                                {
+                                 "name":"jitsiTrigger",
+                                 "type":"string",
+                                 "value":"onaction"
                                 }],
                          "rotation":0,
                          "type":"area",
@@ -375,7 +396,7 @@
                         {
                          "height":192,
                          "id":8,
-                         "name":"",
+                         "name":"jitsiMeetingRoom",
                          "properties":[
                                 {
                                  "name":"jitsiRoom",
@@ -444,7 +465,7 @@
          "y":0
         }],
  "nextlayerid":38,
- "nextobjectid":9,
+ "nextobjectid":11,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
