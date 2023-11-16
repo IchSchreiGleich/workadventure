@@ -34,10 +34,10 @@
                 2
             ],
             "scale": 1.034274193548387,
-            "selectedLayer": 12,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 79.28265107212485,
-                "y": 558.8460038986356
+                "x": 127.14230019493186,
+                "y": 159.5321637426901
             }
         },
         "map.tmj#Chunk 1": {
@@ -45,9 +45,7 @@
         },
         "quentic.tmj": {
             "expandedGroupLayers": [
-                41,
-                5,
-                44,
+                2,
                 36
             ],
             "expandedObjectLayers": [
@@ -57,10 +55,10 @@
                 48
             ],
             "scale": 1.5,
-            "selectedLayer": 28,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 687,
-                "y": 878.6666666666665
+                "x": 933.6666666666665,
+                "y": 1094
             }
         },
         "quentic.tmj#LightShadow_pipo": {
