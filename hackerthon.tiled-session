@@ -1,0 +1,111 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "garage.tmj": {
+            "expandedObjectLayers": [
+                5
+            ],
+            "scale": 1.1696875,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 223.56398610740047,
+                "y": 207.7477958856532
+            }
+        },
+        "garage.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "garage.tmx": {
+            "scale": 1.1696875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 480.4702110606465,
+                "y": 320.59845044082283
+            }
+        },
+        "map.tmj": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 1.034274193548387,
+            "selectedLayer": 12,
+            "viewCenter": {
+                "x": 79.28265107212485,
+                "y": 558.8460038986356
+            }
+        },
+        "map.tmj#Chunk 1": {
+            "scaleInDock": 1
+        },
+        "quentic.tmj": {
+            "expandedGroupLayers": [
+                41,
+                5,
+                44,
+                36
+            ],
+            "expandedObjectLayers": [
+                45,
+                46,
+                23,
+                48
+            ],
+            "scale": 1.5,
+            "selectedLayer": 28,
+            "viewCenter": {
+                "x": 687,
+                "y": 878.6666666666665
+            }
+        },
+        "quentic.tmj#LightShadow_pipo": {
+            "scaleInDock": 3
+        },
+        "quentic.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "quentic.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "quentic.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "quentic.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "quentic.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "quentic.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "quentic.tmj#WA_Special_Zones": {
+            "scaleInDock": 4
+        },
+        "quentic.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "quentic.tmj#[Base]BaseChip_pipo": {
+            "scaleInDock": 2
+        },
+        "quentic.tmj#map-chunk-1-defe7fa3": {
+            "scaleInDock": 1.5
+        }
+    },
+    "last.imagePath": "C:/Dev/workadventure/tilesets",
+    "map.lastUsedFormat": "json",
+    "map.layerDataFormat": "1",
+    "openFiles": [
+    ],
+    "project": "hackerthon.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "garage.tmx"
+    ],
+    "tileset.embedInMap": true
+}
