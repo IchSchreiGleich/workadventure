@@ -9,13 +9,13 @@
     "fileStates": {
         "garage.tmj": {
             "expandedObjectLayers": [
-                5
+                2
             ],
             "scale": 1.1696875,
             "selectedLayer": 2,
             "viewCenter": {
                 "x": 223.56398610740047,
-                "y": 207.7477958856532
+                "y": 206.89286668447767
             }
         },
         "garage.tmj#WA_Room_Builder": {
