@@ -3,8 +3,9 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "map.tmj",
     "expandedProjectPaths": [
+        "."
     ],
     "fileStates": {
         "garage.tmj": {
@@ -14,8 +15,8 @@
             "scale": 1.1696875,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 223.56398610740047,
-                "y": 206.89286668447767
+                "x": 836.9756879508416,
+                "y": 319.3160566390595
             }
         },
         "garage.tmj#WA_Room_Builder": {
@@ -36,8 +37,8 @@
             "scale": 1.034274193548387,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 127.14230019493186,
-                "y": 159.5321637426901
+                "x": 111.18908382066274,
+                "y": 157.59844054580896
             }
         },
         "map.tmj#Chunk 1": {
@@ -45,20 +46,19 @@
         },
         "quentic.tmj": {
             "expandedGroupLayers": [
-                2,
                 36
             ],
             "expandedObjectLayers": [
-                45,
                 46,
                 23,
-                48
+                48,
+                45
             ],
             "scale": 1.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 933.6666666666665,
-                "y": 1094
+                "x": 2418,
+                "y": 1376.3333333333333
             }
         },
         "quentic.tmj#LightShadow_pipo": {
@@ -99,10 +99,16 @@
     "map.lastUsedFormat": "json",
     "map.layerDataFormat": "1",
     "openFiles": [
+        "quentic.tmj",
+        "garage.tmj",
+        "map.tmj"
     ],
     "project": "hackerthon.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
+        "quentic.tmj",
+        "garage.tmj",
+        "map.tmj",
         "garage.tmx"
     ],
     "tileset.embedInMap": true

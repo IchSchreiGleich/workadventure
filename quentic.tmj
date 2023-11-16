@@ -559,6 +559,23 @@
                  "width":32,
                  "x":672,
                  "y":896
+                }, 
+                {
+                 "height":62.6456692913385,
+                 "id":26,
+                 "name":"soundMarco",
+                 "properties":[
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"sound\/blast-138451.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":648.701754385965,
+                 "x":1214.66666666667,
+                 "y":962
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -605,7 +622,7 @@
          "y":0
         }],
  "nextlayerid":56,
- "nextobjectid":26,
+ "nextobjectid":27,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"2023.11.13",
