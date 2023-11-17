@@ -12,8 +12,8 @@ WA.ui.openPopup("fridge", "Bitte Nachfüllen", [{
 }]):
 
 // Open the popup when we enter a given zone
-WA.room.onEnterLayer("fridge").subscribe(() => {
-    helloWorldPopup = WA.ui.openPopup("popupRectangle", 'Hello world!', [{
+WA.room.onEnterLayer("floorLayer").subscribe(() => {
+    helloWorldPopup = WA.ui.openPopup("fridge", 'Hello world!', [{
         label: "Close",
         className: "primary",
         callback: (popup) => {
