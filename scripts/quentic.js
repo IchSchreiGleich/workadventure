@@ -2,6 +2,15 @@ import { } from "https://unpkg.com/@workadventure/scripting-api-extra@^1";
 
 let helloWorldPopup;
 
+WA.ui.openPopup("fridge", "Bitte Nachfüllen", [{
+    label: "Close",
+    className: "primary",
+    callback: (popup) => {
+        // Close the popup when the "Close" button is pressed.
+        popup.close();
+    }
+}]):
+
 // Open the popup when we enter a given zone
 WA.room.onEnterLayer("fridge").subscribe(() => {
     helloWorldPopup = WA.ui.openPopup("popupRectangle", 'Hello world!', [{
