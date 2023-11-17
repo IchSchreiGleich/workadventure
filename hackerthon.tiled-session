@@ -9,7 +9,7 @@
     ],
     "fileStates": {
         "": {
-            "scaleInDock": 1
+            "scaleInDock": 1.5
         },
         "garage.tmj": {
             "expandedObjectLayers": [
@@ -65,9 +65,7 @@
         "quentic.tmj": {
             "expandedGroupLayers": [
                 36,
-                44,
                 2,
-                41,
                 5,
                 24
             ],
@@ -80,17 +78,29 @@
                 48
             ],
             "scale": 1.5,
-            "selectedLayer": 13,
+            "selectedLayer": 23,
             "viewCenter": {
-                "x": 1849.3333333333333,
-                "y": 760.6666666666665
+                "x": 3051.333333333333,
+                "y": 678
             }
+        },
+        "quentic.tmj#Dungeon_B": {
+            "scaleInDock": 1.5
         },
         "quentic.tmj#Fabric_carpet_01_basecolor": {
             "scaleInDock": 1
         },
         "quentic.tmj#LightShadow_pipo": {
             "scaleInDock": 3
+        },
+        "quentic.tmj#Outside_A2": {
+            "scaleInDock": 1.5
+        },
+        "quentic.tmj#SF_Outside_B": {
+            "scaleInDock": 2
+        },
+        "quentic.tmj#SF_Outside_C": {
+            "scaleInDock": 2
         },
         "quentic.tmj#WA_Decoration": {
             "scaleInDock": 1
@@ -117,6 +127,9 @@
             "scaleInDock": 1
         },
         "quentic.tmj#[Base]BaseChip_pipo": {
+            "scaleInDock": 2
+        },
+        "quentic.tmj#base_out_atlas": {
             "scaleInDock": 2
         },
         "quentic.tmj#carpet": {
