@@ -66,8 +66,8 @@
             "scale": 2,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 479.25,
-                "y": 44.5
+                "x": 478.75,
+                "y": 44
             }
         },
         "map.tmj#Chunk 1": {
@@ -76,23 +76,20 @@
         "quentic.tmj": {
             "expandedGroupLayers": [
                 36,
-                2,
-                5,
-                24
+                2
             ],
             "expandedObjectLayers": [
                 47,
-                44,
                 23,
                 46,
                 45,
                 48
             ],
             "scale": 2,
-            "selectedLayer": 39,
+            "selectedLayer": 48,
             "viewCenter": {
-                "x": 2959.5,
-                "y": 783.5
+                "x": 2101.25,
+                "y": 919
             }
         },
         "quentic.tmj#Dungeon_B": {
