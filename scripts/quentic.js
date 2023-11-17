@@ -18,3 +18,7 @@ WA.room.onEnterLayer("fridge").subscribe(() => {
 WA.room.onLeaveLayer("fridge").subscribe(() => {
     helloWorldPopup.close();
 })
+
+const myLayerSubscriber = WA.room.onEnterLayer("floorLayer").subscribe(() => {
+  WA.chat.sendChatMessage("Hello!", "Mr Robot");
+});

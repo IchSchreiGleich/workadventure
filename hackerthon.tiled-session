@@ -165,7 +165,7 @@
         "garage.tmj"
     ],
     "project": "hackerthon.tiled-project",
-    "property.type": "string",
+    "property.type": "float",
     "recentFiles": [
         "conference.tmj",
         "garage.tmj",
