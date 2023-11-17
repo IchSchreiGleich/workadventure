@@ -1045,11 +1045,11 @@
         {
          "columns":16,
          "firstgid":4014,
-         "image":"..\/..\/Users\/marco.stoeckert\/Downloads\/tilesets_modern___mack_by_milkian_dbz1aoz-375w-2x.png",
+         "image":"tilesets\/modern.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
-         "name":"tilesets_modern___mack_by_milkian_dbz1aoz-375w-2x",
+         "name":"modern",
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
