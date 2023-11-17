@@ -16,10 +16,10 @@
                 2
             ],
             "scale": 1,
-            "selectedLayer": 3,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 646,
-                "y": 383
+                "x": 639,
+                "y": 503
             }
         },
         "garage.tmj#Chunk 1": {
@@ -64,26 +64,26 @@
         },
         "quentic.tmj": {
             "expandedGroupLayers": [
-                5,
                 36,
-                2,
-                24,
                 44,
-                41
+                2,
+                41,
+                5,
+                24
             ],
             "expandedObjectLayers": [
-                46,
-                23,
-                45,
-                48,
+                47,
                 44,
-                47
+                23,
+                46,
+                45,
+                48
             ],
-            "scale": 1,
-            "selectedLayer": 32,
+            "scale": 1.5,
+            "selectedLayer": 13,
             "viewCenter": {
-                "x": 1756,
-                "y": 986
+                "x": 1849.3333333333333,
+                "y": 760.6666666666665
             }
         },
         "quentic.tmj#Fabric_carpet_01_basecolor": {
@@ -126,7 +126,7 @@
             "scaleInDock": 1.5
         },
         "quentic.tmj#modern": {
-            "scaleInDock": 1
+            "scaleInDock": 1.5
         },
         "quentic.tmj#tilesets_modern___mack_by_milkian_dbz1aoz-375w-2x": {
             "scaleInDock": 2,
