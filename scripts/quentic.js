@@ -18,21 +18,3 @@ WA.room.onEnterLayer("fridge").subscribe(() => {
 WA.room.onLeaveLayer("fridge").subscribe(() => {
     helloWorldPopup.close();
 })
-
-// Open the popup when we enter a given zone
-WA.room.onEnterZone("fridge").subscribe(() => {
-    helloWorldPopup = WA.ui.openPopup("popupRectangle", 'Hello world!', [{
-        label: "Close",
-        className: "primary",
-        callback: (popup) => {
-            // Close the popup when the "Close" button is pressed.
-            popup.close();
-        }
-    }]);
-});
-
-// Close the popup when we leave the zone.
-WA.room.onEnterZone("fridge").subscribe(() => {
-    helloWorldPopup.close();
-})
-
