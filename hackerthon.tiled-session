@@ -11,6 +11,17 @@
         "": {
             "scaleInDock": 1.5
         },
+        "conference.tmj": {
+            "scale": 1.5709635416666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 384.4774140074597,
+                "y": 224.0663075010361
+            }
+        },
+        "conference.tmj#Chunk 1": {
+            "scaleInDock": 1
+        },
         "garage.tmj": {
             "expandedObjectLayers": [
                 2
@@ -18,8 +29,8 @@
             "scale": 1,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 639,
-                "y": 503
+                "x": 655,
+                "y": 502
             }
         },
         "garage.tmj#Chunk 1": {
@@ -52,11 +63,11 @@
             "expandedObjectLayers": [
                 2
             ],
-            "scale": 1.034274193548387,
-            "selectedLayer": 0,
+            "scale": 2,
+            "selectedLayer": 12,
             "viewCenter": {
-                "x": 98.61988304093569,
-                "y": 155.66471734892792
+                "x": 479.25,
+                "y": 44.5
             }
         },
         "map.tmj#Chunk 1": {
@@ -77,11 +88,11 @@
                 45,
                 48
             ],
-            "scale": 1.5,
-            "selectedLayer": 23,
+            "scale": 2,
+            "selectedLayer": 39,
             "viewCenter": {
-                "x": 3051.333333333333,
-                "y": 678
+                "x": 2959.5,
+                "y": 783.5
             }
         },
         "quentic.tmj#Dungeon_B": {
@@ -109,7 +120,7 @@
             "scaleInDock": 1
         },
         "quentic.tmj#WA_Miscellaneous": {
-            "scaleInDock": 1
+            "scaleInDock": 3
         },
         "quentic.tmj#WA_Other_Furniture": {
             "scaleInDock": 1
@@ -130,7 +141,7 @@
             "scaleInDock": 2
         },
         "quentic.tmj#base_out_atlas": {
-            "scaleInDock": 2
+            "scaleInDock": 0.75
         },
         "quentic.tmj#carpet": {
             "scaleInDock": 1
@@ -139,7 +150,7 @@
             "scaleInDock": 1.5
         },
         "quentic.tmj#modern": {
-            "scaleInDock": 1.5
+            "scaleInDock": 2
         },
         "quentic.tmj#tilesets_modern___mack_by_milkian_dbz1aoz-375w-2x": {
             "scaleInDock": 2,
@@ -156,6 +167,7 @@
     "project": "hackerthon.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "conference.tmj",
         "garage.tmj",
         "quentic.tmj",
         "map.tmj",
