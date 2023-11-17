@@ -881,7 +881,7 @@
                         {
                          "name":"zoomMargin",
                          "type":"float",
-                         "value":0.35
+                         "value":1
                         }],
                  "rotation":0,
                  "type":"area",
