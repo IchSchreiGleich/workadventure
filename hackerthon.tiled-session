@@ -9,7 +9,7 @@
     ],
     "fileStates": {
         "": {
-            "scaleInDock": 4
+            "scaleInDock": 1
         },
         "garage.tmj": {
             "expandedObjectLayers": [
@@ -18,12 +18,16 @@
             "scale": 1,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 917,
-                "y": 498
+                "x": 648,
+                "y": 385
             }
         },
         "garage.tmj#Chunk 1": {
+            "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "garage.tmj#LightShadow_pipo": {
+            "scaleInDock": 1
         },
         "garage.tmj#WA_Room_Builder": {
             "scaleInDock": 1
