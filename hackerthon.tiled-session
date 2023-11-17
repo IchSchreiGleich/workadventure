@@ -154,7 +154,7 @@
         "garage.tmj"
     ],
     "project": "hackerthon.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "garage.tmj",
         "quentic.tmj",
