@@ -3187,7 +3187,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"garage.tmj#from-quentic"
+                         "value":"garage.tmj#from-garden"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3195,6 +3195,40 @@
                  "width":64,
                  "x":2304,
                  "y":2112
+                }, 
+                {
+                 "height":32,
+                 "id":46,
+                 "name":"to-garden",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"quentic.tmj#from-stairs"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":64,
+                 "x":2048,
+                 "y":896
+                }, 
+                {
+                 "height":64,
+                 "id":47,
+                 "name":"from-stairs",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":32,
+                 "x":2176,
+                 "y":1920
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -3941,7 +3975,7 @@
          "y":0
         }],
  "nextlayerid":79,
- "nextobjectid":46,
+ "nextobjectid":48,
  "orientation":"orthogonal",
  "properties":[
         {

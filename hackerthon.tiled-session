@@ -26,11 +26,11 @@
             "expandedObjectLayers": [
                 2
             ],
-            "scale": 1,
-            "selectedLayer": 0,
+            "scale": 1.3076,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 799.5,
-                "y": 623.5
+                "x": 599.5717344753746,
+                "y": 466.8858978280819
             }
         },
         "garage.tmj#Chunk 1": {
@@ -75,6 +75,7 @@
         },
         "quentic.tmj": {
             "expandedGroupLayers": [
+                5,
                 36,
                 2
             ],
@@ -85,15 +86,15 @@
                 45,
                 23
             ],
-            "scale": 2,
-            "selectedLayer": 48,
+            "scale": 0.9892,
+            "selectedLayer": 39,
             "viewCenter": {
-                "x": 3199.75,
-                "y": 1276.75
+                "x": 2335.2203801051355,
+                "y": 2127.4767488879907
             }
         },
         "quentic.tmj#Dungeon_B": {
-            "scaleInDock": 1.5
+            "scaleInDock": 2
         },
         "quentic.tmj#Fabric_carpet_01_basecolor": {
             "scaleInDock": 1
@@ -138,10 +139,10 @@
             "scaleInDock": 2
         },
         "quentic.tmj#base_out_atlas": {
-            "scaleInDock": 0.75
+            "scaleInDock": 1.04
         },
         "quentic.tmj#carpet": {
-            "scaleInDock": 1
+            "scaleInDock": 2
         },
         "quentic.tmj#map-chunk-1-defe7fa3": {
             "scaleInDock": 1.5

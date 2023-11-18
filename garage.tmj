@@ -272,6 +272,23 @@
                  "width":160,
                  "x":1216,
                  "y":704
+                }, 
+                {
+                 "height":96,
+                 "id":6,
+                 "name":"from-garden",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":96,
+                 "x":1088,
+                 "y":512
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -380,10 +397,10 @@
          "y":0
         }],
  "nextlayerid":9,
- "nextobjectid":6,
+ "nextobjectid":7,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"2023.11.13",
+ "tiledversion":"1.10.2",
  "tileheight":32,
  "tilesets":[
         {
