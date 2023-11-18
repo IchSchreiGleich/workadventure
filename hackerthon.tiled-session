@@ -29,8 +29,8 @@
             "scale": 1,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 552.5,
-                "y": 501
+                "x": 799.5,
+                "y": 623.5
             }
         },
         "garage.tmj#Chunk 1": {
@@ -79,17 +79,17 @@
                 2
             ],
             "expandedObjectLayers": [
-                47,
-                23,
                 46,
+                48,
+                47,
                 45,
-                48
+                23
             ],
             "scale": 2,
             "selectedLayer": 48,
             "viewCenter": {
-                "x": 2101.25,
-                "y": 919
+                "x": 3199.75,
+                "y": 1276.75
             }
         },
         "quentic.tmj#Dungeon_B": {
@@ -162,7 +162,7 @@
         "garage.tmj"
     ],
     "project": "hackerthon.tiled-project",
-    "property.type": "float",
+    "property.type": "string",
     "recentFiles": [
         "conference.tmj",
         "garage.tmj",
