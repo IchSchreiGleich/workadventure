@@ -231,8 +231,8 @@
                  "properties":[
                         {
                          "name":"start",
-                         "type":"bool",
-                         "value":true
+                         "type":"string",
+                         "value":"from-quentic"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -280,8 +280,8 @@
                  "properties":[
                         {
                          "name":"start",
-                         "type":"bool",
-                         "value":true
+                         "type":"string",
+                         "value":"from-garden"
                         }],
                  "rotation":0,
                  "type":"area",
