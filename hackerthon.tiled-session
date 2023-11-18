@@ -9,7 +9,7 @@
     ],
     "fileStates": {
         "": {
-            "scaleInDock": 1.5
+            "scaleInDock": 1
         },
         "conference.tmj": {
             "scale": 1.5709635416666665,
@@ -27,15 +27,18 @@
                 2
             ],
             "scale": 1.3076,
-            "selectedLayer": 4,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 1072.5757112266747,
-                "y": 517.3600489446313
+                "x": 223.30988069746095,
+                "y": 336.1119608442949
             }
         },
         "garage.tmj#Chunk 1": {
             "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "garage.tmj#FDF6w5": {
+            "scaleInDock": 1
         },
         "garage.tmj#LightShadow_pipo": {
             "scaleInDock": 1
@@ -77,7 +80,8 @@
             "expandedGroupLayers": [
                 5,
                 36,
-                2
+                2,
+                68
             ],
             "expandedObjectLayers": [
                 46,
@@ -86,15 +90,19 @@
                 45,
                 23
             ],
-            "scale": 0.9892,
-            "selectedLayer": 39,
+            "scale": 0.6,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 2304.3873837444403,
-                "y": 1937.4241811564902
+                "x": 1055,
+                "y": 1972.5000000000002
             }
         },
         "quentic.tmj#Dungeon_B": {
             "scaleInDock": 2
+        },
+        "quentic.tmj#FDF6w5": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "quentic.tmj#Fabric_carpet_01_basecolor": {
             "scaleInDock": 1
@@ -155,7 +163,7 @@
             "scaleInEditor": 1
         }
     },
-    "last.imagePath": "C:/Dev/workadventure/tilesets",
+    "last.imagePath": "/Users/marco/Downloads/Source/OtherProjects/workadventure/tilesets",
     "map.lastUsedFormat": "json",
     "map.layerDataFormat": "1",
     "openFiles": [
@@ -165,9 +173,9 @@
     "project": "hackerthon.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "conference.tmj",
         "garage.tmj",
         "quentic.tmj",
+        "conference.tmj",
         "map.tmj",
         "garage.tmx"
     ],
@@ -175,7 +183,7 @@
     "tileset.margin": 0,
     "tileset.spacing": 0,
     "tileset.tileSize": {
-        "height": 32,
-        "width": 32
+        "height": 71,
+        "width": 115
     }
 }
