@@ -29,8 +29,8 @@
             "scale": 1.3076,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 479.8868155399204,
-                "y": 273.78403181401035
+                "x": 1009.483022330988,
+                "y": 623.6616702355459
             }
         },
         "garage.tmj#Chunk 1": {
@@ -79,21 +79,20 @@
         "quentic.tmj": {
             "expandedGroupLayers": [
                 36,
-                29,
                 2
             ],
             "expandedObjectLayers": [
-                46,
-                47,
-                23,
                 45,
-                48
+                48,
+                23,
+                47,
+                46
             ],
             "scale": 1,
-            "selectedLayer": 40,
+            "selectedLayer": 33,
             "viewCenter": {
-                "x": 2852.5,
-                "y": 1391
+                "x": 2953.5,
+                "y": 1137
             }
         },
         "quentic.tmj#Dungeon_B": {
