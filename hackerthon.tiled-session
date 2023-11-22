@@ -78,21 +78,22 @@
         },
         "quentic.tmj": {
             "expandedGroupLayers": [
+                36,
                 2,
-                36
+                24
             ],
             "expandedObjectLayers": [
-                23,
                 48,
-                46,
                 45,
+                46,
+                23,
                 47
             ],
-            "scale": 1,
-            "selectedLayer": 33,
+            "scale": 1.5,
+            "selectedLayer": 40,
             "viewCenter": {
-                "x": 3227,
-                "y": 1424.5
+                "x": 2527,
+                "y": 1215.3333333333333
             }
         },
         "quentic.tmj#Dungeon_B": {

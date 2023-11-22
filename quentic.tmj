@@ -3121,7 +3121,7 @@
                         {
                          "name":"jitsiConfig",
                          "type":"string",
-                         "value":"{ \"startWithAudioMuted\": true }"
+                         "value":"{ \"startWithAudioMuted\": false }"
                         }, 
                         {
                          "name":"jitsiInterfaceConfig",
@@ -3136,7 +3136,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Robert"
+                         "value":"Team Engeneering"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -3146,7 +3146,7 @@
                         {
                          "name":"jitsiTriggerMessage",
                          "type":"string",
-                         "value":"Dr\u00fcckste SPACE kommste rein"
+                         "value":"Press SPACE to join our professional meeting"
                         }],
                  "rotation":0,
                  "type":"area",
