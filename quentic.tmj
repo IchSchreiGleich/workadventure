@@ -3121,7 +3121,7 @@
                         {
                          "name":"jitsiConfig",
                          "type":"string",
-                         "value":"{ \"startWithAudioMuted\": false }"
+                         "value":"{ \"startWithAudioMuted\": false, \"startWithVideoMuted\": false }"
                         }, 
                         {
                          "name":"jitsiInterfaceConfig",
