@@ -2,7 +2,7 @@ import { } from "https://unpkg.com/@workadventure/scripting-api-extra@^1";
 
 let helloWorldPopup;
 
-WA.ui.openPopup("fridge", "Bitte Nachfüllen", [{
+WA.ui.openPopup("fridge", "Bitte nachfüllen", [{
     label: "Close",
     className: "primary",
     callback: (popup) => {
